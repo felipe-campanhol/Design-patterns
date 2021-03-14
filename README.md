@@ -4,4 +4,4 @@
 
 1 - S.O.L.I.D Link to the concept page: [Solid](https://github.com/felipe-campanhol/Studies/tree/master/src/main/java/studies/oop/solid). 
 
-2 - D.R.Y Link to the concept page: [Dry](https://github.com/felipe-campanhol/Studies/tree/master/src/main/java/studies/oop/dry). 
+2 - D.R.Y Link to the concept page: [Dry](https://github.com/felipe-campanhol/Studies/tree/master/src/main/java/studies/swp/dry). 
