@@ -1,4 +1,4 @@
-# Welcome to my studies repository
+# Welcome to my Design Patterns repository
 
 #### In this repository you will find some concepts of oriented object programing which if applyed in a system, there are some benefits to use these concepts such as have a pattern on the code, can help also the team to better understand the developer code and consolidates more security
 
